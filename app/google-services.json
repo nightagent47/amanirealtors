@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452816396515",
+    "project_id": "amani-realtors",
+    "storage_bucket": "amani-realtors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452816396515:android:32d5341c4aaf32015a25d6",
+        "android_client_info": {
+          "package_name": "com.abuxis.amanirealtors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3onbGNj0H2p7faSzcDYlIl-UbB6SXVaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
